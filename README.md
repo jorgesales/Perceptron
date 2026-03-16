@@ -16,3 +16,13 @@ You should run first the example of the AND function, then complete with a simil
 * [Exercise: linearly separable classes](Classes.ipynb)
 
 For the submission of this task, please follow the instructions of the corresponding workshop in Aula Virtual.
+
+## Google Colab versions
+
+ * Python 3.12.12
+ * scikit-learn 1.6.1
+ * sklearn-pandas 2.2.0
+ * tensorflow 2.19.0
+ * numpy 2.0.2
+
+
